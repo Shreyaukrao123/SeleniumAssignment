@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-12-01T08:49:24 IST" name="Default suite" finished-at="2020-12-01T08:49:42 IST" duration-ms="18109">
+  <suite started-at="2020-12-01T10:23:48 IST" name="Default suite" finished-at="2020-12-01T10:24:08 IST" duration-ms="19630">
     <groups>
     </groups>
-    <test started-at="2020-12-01T08:49:24 IST" name="Default test" finished-at="2020-12-01T08:49:42 IST" duration-ms="18109">
-      <class name="SeleniumBootstrap.Assignments.dragAndDrop">
-        <test-method is-config="true" signature="setup()[pri:0, instance:SeleniumBootstrap.Assignments.dragAndDrop@3aefe5e5]" started-at="2020-12-01T08:49:24 IST" name="setup" finished-at="2020-12-01T08:49:40 IST" duration-ms="15850" status="PASS">
+    <test started-at="2020-12-01T10:23:48 IST" name="Default test" finished-at="2020-12-01T10:24:08 IST" duration-ms="19630">
+      <class name="SeleniumBootstrap.Assignments.bootstrapSelect">
+        <test-method is-config="true" signature="setup()[pri:0, instance:SeleniumBootstrap.Assignments.bootstrapSelect@79b06cab]" started-at="2020-12-01T10:23:48 IST" name="setup" finished-at="2020-12-01T10:24:02 IST" duration-ms="13951" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="test()[pri:0, instance:SeleniumBootstrap.Assignments.dragAndDrop@3aefe5e5]" started-at="2020-12-01T08:49:40 IST" name="test" finished-at="2020-12-01T08:49:40 IST" duration-ms="515" status="PASS">
+        <test-method signature="testBootStrap()[pri:0, instance:SeleniumBootstrap.Assignments.bootstrapSelect@79b06cab]" started-at="2020-12-01T10:24:02 IST" name="testBootStrap" finished-at="2020-12-01T10:24:07 IST" duration-ms="4643" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumBootstrap.Assignments.dragAndDrop@3aefe5e5]" started-at="2020-12-01T08:49:40 IST" name="tearDown" finished-at="2020-12-01T08:49:42 IST" duration-ms="1670" status="PASS">
+        </test-method> <!-- testBootStrap -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumBootstrap.Assignments.bootstrapSelect@79b06cab]" started-at="2020-12-01T10:24:07 IST" name="tearDown" finished-at="2020-12-01T10:24:08 IST" duration-ms="977" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- SeleniumBootstrap.Assignments.dragAndDrop -->
+      </class> <!-- SeleniumBootstrap.Assignments.bootstrapSelect -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
